@@ -53,11 +53,6 @@
 
 教师可以登录、修改密码、查询个人信息、查询个人开课情况、添加、修改、删除课程、查看课程选课情况、删除学生、评分等
 
-## 5、获取方式
-
-扫描下方，回复 “**选课3** ” ，即可获取完整版的项目代码。
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
 
 
