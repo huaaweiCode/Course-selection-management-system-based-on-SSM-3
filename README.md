@@ -54,5 +54,9 @@
 教师可以登录、修改密码、查询个人信息、查询个人开课情况、添加、修改、删除课程、查看课程选课情况、删除学生、评分等
 
 
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：选课
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
 
